@@ -1,6 +1,6 @@
 {
-  "name": "true false",
-  "projectId": "f39b53db-f418-45fd-afd5-0001df3f4e4f",
+  "name": "automation using text",
+  "projectId": "6e42e155-9759-4c93-8f13-ff11afd0e048",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "608df223-09de-4632-8f06-5829d66a806e",
+      "uniqueId": "2fa4d00d-c1bf-4d16-9f93-b325424d5138",
       "input": [],
       "output": []
     }
